@@ -27,16 +27,10 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h3>Project – Data Science Specialization</h3>
-        <p><a
-        href="https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage"
-        target="_blank">Johns Hopkins University, Bloomberg School of Public Health.</a> The
-        data science special- ization, a series of nine online courses offered by the Bloomberg
-        School of Public Health’s Department of Biostatistics, covers the whole data science
-        process – a field dedicated to identifying, collecting, refining, analyzing and
-        interpreting data in a wide range of areas, from finance to public health. Details on
-        the courses and enrollment opportunities are available at the above link. Below is a
-        select series of R programming assignments for various courses in the series.</p>
+        <h3>
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
+
+<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
 
 <pre><code>$ cd your_repo_root/repo_name
 $ git fetch origin
