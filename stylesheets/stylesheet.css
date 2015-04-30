@@ -290,8 +290,9 @@ Full-Width Styles
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
   /* add */
-  border-radius: 0.5em;
   letter-spacing: normal;
+  border: solid thin black;
+  border-radius: 0.5em;
   box-shadow: inset 0 0 20px 10px rgba(0,0,0,0.6);
 }
 
