@@ -99,9 +99,6 @@ p {
   margin: 10px 0 15px 0;
   /* add */
   text-align: justify;
-}
-
-p.indent {
   text-indent: 2.0em;
 }
 
